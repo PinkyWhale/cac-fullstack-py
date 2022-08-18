@@ -8,6 +8,25 @@
 - Etiquetas especiales: URL, Links, Rutas: absolutas. Listas. Tablas. Iframe. Elementos block e inline.
 - Formularios. Elementos y atributos.
 
+## Temario del curso
+Front-End (Desarrollo Web)
+- HTML
+- CSS
+- GIT
+- Diseño
+- Bootstrap
+- JavaScript
+- Vue
+- Arquitectura
+Back-End (Base de datos y Programación)
+- SQL
+- Scrum
+- Python
+- POO
+- Flask
+- Django
+- Empleabilidad
+
 ## 🌳Tree:
 1. cac-htmlcss
     1. unidad1

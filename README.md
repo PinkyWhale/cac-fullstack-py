@@ -9,6 +9,7 @@
 - Formularios. Elementos y atributos.
 
 ## Temario del curso
+
 _Front-End (Desarrollo Web)_
 - HTML
 - CSS
@@ -18,6 +19,7 @@ _Front-End (Desarrollo Web)_
 - JavaScript
 - Vue
 - Arquitectura
+
 _Back-End (Base de datos y Programación)_
 - SQL
 - Scrum

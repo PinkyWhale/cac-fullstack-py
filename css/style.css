@@ -1,23 +1,85 @@
-h1{
-    text-align: center;
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 header{
     background-color: black;
     color: white;
+    width: 100%;
 }
 
 .nav{
     background-color: gray;
     color: white;
     text-decoration: none;
-    padding: 5px;
+    margin: 0.3%;
+    padding: 0.3%;
     border-radius: 5px;
+    font-size: 1.5vw;
+    left: 0;
+}
+
+.imgindex,.imgabout{
+    width: 40%;
+}
+
+h1{
+    font-size: 3vw;
+    text-align: center;
+}
+
+h2{
+    font-size: 2vw;
+}
+
+h3{
+    font-size: 1.5vw;
+}
+h4{
+    font-size: 1.5vw;
+}
+h5{
+    font-size: 1.5vw;
+}
+p{
+    font-size: 1.5vw;
+}
+
+/*--- Redes ---*/
+.redsoc{
+    color: white;
+    font-size: 1.5vw;
+    text-align: center;
+}
+
+.redsoc a{
+    color: black;
+    margin: 0px 6px;
+    font-size: 2vw;
+}
+
+.redsoc a:hover{
+    color: grey;
+}
+
+.imgcliente{
+    width: 20%;
+    margin-left: 11%;
 }
 
 footer{
     background-color: black;
     color: white;
+    width: 100%;
+
     text-align: center;
+    /* posicion sin espacios blancos*/
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    padding: 20px;
+    height: 50px;
     margin-top: 10px;
 }
